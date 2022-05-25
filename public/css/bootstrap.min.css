@@ -41,6 +41,15 @@ body {
     background-color: #EAFDA1;
 }
 
+.nav-items {
+    justify-content: center;
+}
+
+.nav-item {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
 .profile {
     display: flex;
     padding-top: 10px;
