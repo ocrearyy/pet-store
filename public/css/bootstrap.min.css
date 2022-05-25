@@ -23,6 +23,8 @@ p {
 .topbar {
     display: flex;
     flex-direction: column;
+    margin: 0.1px;
+    padding: 0.1px;
 }
 
 .ponto-p {
@@ -34,7 +36,11 @@ p {
     font-size: 50px;
 }
 body {
-    background-color: #EAFDA1;
+
+}
+
+.furry {
+    font-size: 50px;
 }
 
 .navfill {
