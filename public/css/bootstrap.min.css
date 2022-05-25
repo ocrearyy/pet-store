@@ -40,7 +40,10 @@ body {
 }
 
 .furry {
-    font-size: 50px;
+    font-size: 60px;
+    color: white;
+    margin-top: -450px;
+    font-weight: 500;
 }
 
 .navfill {
