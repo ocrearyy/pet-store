@@ -27,6 +27,11 @@ p {
     padding: 0.1px;
 }
 
+#home-info {
+  margin-top: 120px;
+  text-align: center;
+}
+
 .ponto-p {
     margin-top: -20px;
     font-size: 20px;
@@ -40,6 +45,11 @@ p {
     border: none;
 }
 
+
+#home-main-text {
+    color: #17a2b8;
+    font-size: 50px;
+}
 .left {
 background-color: none;
 position: absolute;
