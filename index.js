@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const path = require('path')
-const redditData = require('../views/data.json')
+const redditData = require('./views/data.json')
 
 app.use(express.static(path.join(__dirname, '/public')));
 

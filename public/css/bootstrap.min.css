@@ -20,11 +20,23 @@ p {
     font-size: 50px;
 }
 
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
+
 .greyc {
     color: grey;
     font-family: "Segoe UI", Roboto;
     font-size: 1rem;
     font-weight: 400;
+}
+
+.pic-space {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 .describe-btn {
@@ -35,6 +47,19 @@ p {
   font-family: "Segoe UI", Roboto;
   font-size: 1rem;
   font-weight: 400;
+}
+
+.pics {
+    width: 100%;
+    height: auto;
+}
+
+.picdog {
+    height: 89%;
+}
+
+.pics-container {
+  
 }
 
 .topbar {
