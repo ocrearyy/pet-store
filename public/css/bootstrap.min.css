@@ -25,6 +25,10 @@ p {
     padding-left:0;
 }
 
+.pic-rat {
+    height: 100% !important;
+}
+
 .greyc {
     color: grey;
     font-family: "Segoe UI", Roboto;
@@ -37,10 +41,11 @@ p {
     margin-right: 0px;
     padding-left: 0px;
     padding-right: 0px;
+    margin-bottom: -20px;
 }
 
 .describe-btn {
-  background-color: #17a2b8;
+  background-color: #7ECAE0;
   border: none;
   font-size: normal;
   padding: 10px 20px 10px 20px;
