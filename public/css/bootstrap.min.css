@@ -16,8 +16,32 @@ p {
     font-family: 'Poppins', sans-serif;
 }
 
+.base-ul {
+display: flex;
+list-style: none;
+margin-left: -40px;
+}
+
 .ponto {
     font-size: 50px;
+}
+
+.base-para {
+    padding-top: 80px;
+}
+
+.two {
+    margin-left: 100px;
+    line-height: 5px;
+    text-align: right;
+    font-size: 12px;
+}
+
+.one {
+    margin-right: 100px;
+    line-height: 5px;
+    text-align: left;
+    font-size: 12px;
 }
 
 footer {
@@ -25,6 +49,7 @@ footer {
     background-color: #7ECAE0;
     margin-right: 15px;
     margin-left: 15px;
+    padding-bottom: 30px;
 }
 .padding-0{
     padding-right:0;
@@ -126,6 +151,17 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+}
+
+.social {
+margin-right: 20px;
+font-size: 20px;
+}
+
+.base-space {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 #home-main-text {
