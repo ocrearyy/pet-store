@@ -16,8 +16,48 @@ p {
     font-family: 'Poppins', sans-serif;
 }
 
+.base-ul {
+display: flex;
+list-style: none;
+margin-left: -40px;
+}
+
 .ponto {
     font-size: 50px;
+}
+
+.base-para {
+    padding-top: 80px;
+}
+
+.two {
+    margin-left: 100px;
+    line-height: 5px;
+    text-align: right;
+    font-size: 12px;
+}
+
+.one {
+    margin-right: 100px;
+    line-height: 5px;
+    text-align: left;
+    font-size: 12px;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #7ECAE0;
+    margin-right: 15px;
+    margin-left: 15px;
+    padding-bottom: 30px;
+}
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
+
+.pic-rat {
+    height: 100% !important;
 }
 
 .greyc {
@@ -27,14 +67,35 @@ p {
     font-weight: 400;
 }
 
+.pic-space {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: -20px;
+}
+
 .describe-btn {
-  background-color: #17a2b8;
+  background-color: #7ECAE0;
   border: none;
   font-size: normal;
   padding: 10px 20px 10px 20px;
   font-family: "Segoe UI", Roboto;
   font-size: 1rem;
   font-weight: 400;
+}
+
+.pics {
+    width: 100%;
+    height: auto;
+}
+
+.picdog {
+    height: 89%;
+}
+
+.pics-container {
+  
 }
 
 .topbar {
@@ -90,6 +151,17 @@ p {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+}
+
+.social {
+margin-right: 20px;
+font-size: 20px;
+}
+
+.base-space {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 #home-main-text {
