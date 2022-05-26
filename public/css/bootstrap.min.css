@@ -20,6 +20,12 @@ p {
     font-size: 50px;
 }
 
+footer {
+    margin-top: 20px;
+    background-color: #7ECAE0;
+    margin-right: 15px;
+    margin-left: 15px;
+}
 .padding-0{
     padding-right:0;
     padding-left:0;
